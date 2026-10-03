@@ -28,5 +28,8 @@ R= si se llega a dañar un disco es complicado no perder la informacion, pongamo
 
 ### ¿Para qué sirven las baterías si ya hay generadores?
 
-R= 
+R= la bateria es como el corazon, ya que es la que da energia y la energia es la que maneja todo el circuito, no no hay generadores almenos no los veo
 
+### Un PUE de 1,5 significa que por cada 100 W de servidores se gastan 50 W más. ¿En qué se gastan?
+
+R= 
