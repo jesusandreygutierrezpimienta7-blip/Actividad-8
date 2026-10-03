@@ -20,4 +20,13 @@ R= un tecnico de climatizacion si podria entrar a una sala de servidores pero co
 
 ### ¿Por qué los servidores no tienen pantalla ni teclado?
 
+R= la misma explicacion dice que es un computador sin pantalla, es decir no tiene necesidad de tener una puede funcionar haci sin pantallas, una explicacion mejor podria ser que diseñan y hacen las cosas de manera autonoma sin necesidad de que los manejen 
+
+### Si se daña un disco, ¿qué evita que se pierdan las notas de todos los estudiantes?
+
+R= si se llega a dañar un disco es complicado no perder la informacion, pongamos de ejemplo una USB que funciona con diminutos discos que guardan la informacion de todo, si el brazo de la USB llega a rayar estos discos con la aguja simplemente se perdio la informacion, estos discos funcionan exactamente igual si se pierde uno se pierde toda la informacion, la unica manera de recuperar estos datos seria tener copias de seguridad (es lo unico que se me ocurre para recuperarlos)
+
+### ¿Para qué sirven las baterías si ya hay generadores?
+
 R= 
+
